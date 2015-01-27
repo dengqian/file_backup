@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1414300547 source:/home/dengqian/c++ files/minSpanTree/main.cpp
+	<iostream>
+	<stdio.h>
+	<limits>
+	<algorithm>
+	<vector>
+
+1414503153 source:/home/dengqian/c++files/minSpanTree/main.cpp
+	<iostream>
+	<stdio.h>
+	<limits>
+	<algorithm>
+	<vector>
+

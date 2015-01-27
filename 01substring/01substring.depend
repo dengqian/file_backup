@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1415971844 source:/home/dengqian/c++files/01substring/main.cpp
+	<iostream>
+	<string.h>
+	<set>
+	<map>
+

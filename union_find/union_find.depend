@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1415183810 source:/home/dengqian/c++files/union_find/main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<vector>
+	<string.h>
+

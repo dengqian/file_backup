@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1416146095 source:/home/dengqian/c++files/biggestFlow/main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+

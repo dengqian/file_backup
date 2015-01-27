@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1415186611 source:/home/dengqian/c++files/erfendaan/main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<vector>
+	<string.h>
+
